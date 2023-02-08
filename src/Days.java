@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public enum Days {
+public enum Days {
+    DUISHOMBU,
+    SHEISHEMBI,
+    SHARSHEMBI,
+    BEISHEMBI,
+    JUMA,
+    ISHEMBI,
+    JEKSHEMBI;
 }
